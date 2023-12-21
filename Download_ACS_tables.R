@@ -1,4 +1,8 @@
-s## ----intall-packages---------------------------------------------
+##USED this video for reference:
+#https://www.youtube.com/watch?v=PnFJfuJ83NI&t=4916s
+#here is the associate github repo for this workshop: https://github.com/walkerke/umich-workshop/tree/main
+
+## ----intall-packages---------------------------------------------
 install.packages(c("tidycensus", "tidyverse"))
 library(tidycensus)
 library(tidyverse)
